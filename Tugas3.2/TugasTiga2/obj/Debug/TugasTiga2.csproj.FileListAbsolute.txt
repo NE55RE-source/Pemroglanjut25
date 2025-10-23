@@ -1,0 +1,11 @@
+C:\smester 5 pemrog lanjut\Pertemuan 3 lab\TUGAS 3.1 & 3.2\Tugas3.2\TugasTiga2\bin\Debug\TugasTiga2.exe.config
+C:\smester 5 pemrog lanjut\Pertemuan 3 lab\TUGAS 3.1 & 3.2\Tugas3.2\TugasTiga2\bin\Debug\TugasTiga2.exe
+C:\smester 5 pemrog lanjut\Pertemuan 3 lab\TUGAS 3.1 & 3.2\Tugas3.2\TugasTiga2\bin\Debug\TugasTiga2.pdb
+C:\smester 5 pemrog lanjut\Pertemuan 3 lab\TUGAS 3.1 & 3.2\Tugas3.2\TugasTiga2\obj\Debug\TugasTiga2.csproj.AssemblyReference.cache
+C:\smester 5 pemrog lanjut\Pertemuan 3 lab\TUGAS 3.1 & 3.2\Tugas3.2\TugasTiga2\obj\Debug\TugasTiga2.frmTugasTiga2.resources
+C:\smester 5 pemrog lanjut\Pertemuan 3 lab\TUGAS 3.1 & 3.2\Tugas3.2\TugasTiga2\obj\Debug\TugasTiga2.Properties.Resources.resources
+C:\smester 5 pemrog lanjut\Pertemuan 3 lab\TUGAS 3.1 & 3.2\Tugas3.2\TugasTiga2\obj\Debug\TugasTiga2.csproj.GenerateResource.cache
+C:\smester 5 pemrog lanjut\Pertemuan 3 lab\TUGAS 3.1 & 3.2\Tugas3.2\TugasTiga2\obj\Debug\TugasTiga2.csproj.CoreCompileInputs.cache
+C:\smester 5 pemrog lanjut\Pertemuan 3 lab\TUGAS 3.1 & 3.2\Tugas3.2\TugasTiga2\obj\Debug\TugasTiga2.exe
+C:\smester 5 pemrog lanjut\Pertemuan 3 lab\TUGAS 3.1 & 3.2\Tugas3.2\TugasTiga2\obj\Debug\TugasTiga2.pdb
+C:\smester 5 pemrog lanjut\Pertemuan 3 lab\TUGAS 3.1 & 3.2\Tugas3.2\TugasTiga2\obj\Debug\TugasTiga2.exe.config
